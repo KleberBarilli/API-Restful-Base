@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.renderLineHighlight": "gutter",
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.parameterHints.enabled": false,
+    "breadcrumbs.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true 
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
